@@ -14,7 +14,7 @@ image = Image.open("logo.png")
 st.image(image)
 
 # Web App Title
-st.title('''**IntelliAdora's News Crawler**''')
+st.title('''**News Crawler**''')
 
 #Fixed format of crawling site link
 url = 'https://news.google.com/rss/search?q='
